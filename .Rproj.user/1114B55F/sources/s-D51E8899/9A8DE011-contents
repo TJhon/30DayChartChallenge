@@ -1,0 +1,26 @@
+---
+output: github_document
+title: "#30dayChartChallenge"
+---
+
+```{r, include=F}
+knitr::opts_chunk$set(
+  warning = F
+  , echo = F
+)
+```
+
+
+```{r}
+knitr::include_graphics("Figs/30dcc.png")
+day_p <- function(day, format = ".png"){
+  knitr::include_graphics(paste0("Plots/", "day", day, format))
+}
+```
+
+# Day 1: Part to whole
+
+```{r}
+day_p(1)
+```
+
