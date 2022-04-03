@@ -24,3 +24,9 @@ day_p <- function(day, format = ".png"){
 day_p(1)
 ```
 
+# Day 2: Pictogram
+
+```{r}
+day_p(2)
+```
+
