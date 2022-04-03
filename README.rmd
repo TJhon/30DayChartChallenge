@@ -18,13 +18,13 @@ day_p <- function(day, format = ".png"){
 }
 ```
 
-# Day 1: Part to whole
+# [Day 1: Part to whole](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day1-part-to-whole.r)
 
 ```{r}
 day_p(1)
 ```
 
-# Day 2: Pictogram
+# [Day 2: Pictogram](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day2-pictogram.r)
 
 ```{r}
 day_p(2)
