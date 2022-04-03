@@ -11,20 +11,33 @@ knitr::opts_chunk$set(
 ```
 
 
-```{r}
+```{r, results='asis'}
 knitr::include_graphics("Figs/30dcc.png")
 day_p <- function(day, format = ".png"){
   knitr::include_graphics(paste0("Plots/", "day", day, format))
 }
+
+
+day_name <- function(day, day_name){
+  name_link <- stringr::str_to_sentence(day_name)
+  code_name <- stringr::str_replace_all(day_name, " ", "-")
+  code <- paste0("https://github.com/TJhon/30DayChartChallenge/blob/main/R/day", day, "-", code_name, ".r")
+  
+  # r_part <- , "1-part-to-whole.r"
+  # link <- paste()
+  final <- paste0("# [Day ", day, ": ", name_link, "]", "(", code, ")")
+  final
+}
+
 ```
 
-# [Day 1: Part to whole](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day1-part-to-whole.r)
+`r day_name("1", "part to whole")`
 
 ```{r}
 day_p(1)
 ```
 
-# [Day 2: Pictogram](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day2-pictogram.r)
+`r day_name("2", "pictogram")`
 
 ```{r}
 day_p(2)
