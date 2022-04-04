@@ -43,3 +43,8 @@ day_p(1)
 day_p(2)
 ```
 
+`r day_name("3", "historical")`
+
+```{r}
+day_p(3)
+```

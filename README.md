@@ -10,3 +10,7 @@
 # [Day 2: Pictogram](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day2-pictogram.r)
 
 ![](Plots/day2.png)<!-- -->
+
+# [Day 3: Historical](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day3-historical.r)
+
+![](Plots/day3.png)<!-- -->
