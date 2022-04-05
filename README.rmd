@@ -48,3 +48,9 @@ day_p(2)
 ```{r}
 day_p(3)
 ```
+
+`r day_name("4", "flora")`
+
+```{r}
+day_p(4)
+```

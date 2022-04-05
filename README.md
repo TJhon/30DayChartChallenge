@@ -14,3 +14,7 @@
 # [Day 3: Historical](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day3-historical.r)
 
 ![](Plots/day3.png)<!-- -->
+
+# [Day 4: Flora](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day4-flora.r)
+
+![](Plots/day4.png)<!-- -->
