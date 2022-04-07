@@ -54,3 +54,16 @@ day_p(3)
 ```{r}
 day_p(4)
 ```
+
+`r day_name("5", "slope")`
+
+```{r}
+day_p(5)
+```
+
+
+`r day_name("6", "OWID")`
+
+```{r}
+day_p(6, ".gif")
+```

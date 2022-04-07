@@ -18,3 +18,11 @@
 # [Day 4: Flora](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day4-flora.r)
 
 ![](Plots/day4.png)<!-- -->
+
+# [Day 5: Slope](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day5-slope.r)
+
+![](Plots/day5.png)<!-- -->
+
+# [Day 6: Owid](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day6-OWID.r)
+
+![](Plots/day6.gif)<!-- -->
