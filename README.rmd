@@ -67,3 +67,9 @@ day_p(5)
 ```{r}
 day_p(6, ".gif")
 ```
+
+`r day_name("7", "physical")`
+
+```{r}
+day_p(7)
+```

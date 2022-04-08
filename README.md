@@ -26,3 +26,7 @@
 # [Day 6: Owid](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day6-OWID.r)
 
 ![](Plots/day6.gif)<!-- -->
+
+# [Day 7: Physical](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day7-physical.r)
+
+![](Plots/day7.png)<!-- -->
