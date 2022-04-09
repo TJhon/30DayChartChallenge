@@ -73,3 +73,9 @@ day_p(6, ".gif")
 ```{r}
 day_p(7)
 ```
+
+`r day_name("8", "mountains")`
+
+```{r}
+day_p(8)
+```

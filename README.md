@@ -30,3 +30,7 @@
 # [Day 7: Physical](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day7-physical.r)
 
 ![](Plots/day7.png)<!-- -->
+
+# [Day 8: Mountains](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day8-mountains.r)
+
+![](Plots/day8.png)<!-- -->
