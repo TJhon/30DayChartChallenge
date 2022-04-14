@@ -34,3 +34,11 @@
 # [Day 8: Mountains](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day8-mountains.r)
 
 ![](Plots/day8.png)<!-- -->
+
+# [Day 9: Statistics](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day9-statistics.r)
+
+![](Plots/day9.png)<!-- -->
+
+# [Day 10: Experimental](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day10-experimental.r)
+
+![](Plots/day10.png)<!-- -->

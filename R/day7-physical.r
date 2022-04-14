@@ -15,8 +15,6 @@ glimpse(sports)
 
 unique(sports$sports)
 
-sports |> 
-  summarise(total = total_)
 
 options(scipen = 999)
 
@@ -40,13 +38,14 @@ pal_col <- c(
   "#008e5f"
   , "#f1007d"
 )
-sport_w |> 
+p <- 
+  sport_w |> 
   group_by(sex) |> 
-  slice(1:2000) |> 
+  # slice(1:2000) |> 
   mutate(across(c(rev, exp), log)) |> 
   ggplot() +
   aes(exp, rev, color = sex) +
-  geom_point(alpha = .3) +
+  geom_point(alpha = .1) +
   scale_color_manual(
     values = pal_col
   ) +
@@ -89,6 +88,7 @@ sport_w |>
 
 ggsave(
   here::here("plots", "day7.png")
+  , plot = p
   , width = 12
   , height = 8
 )

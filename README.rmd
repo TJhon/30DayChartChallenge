@@ -79,3 +79,16 @@ day_p(7)
 ```{r}
 day_p(8)
 ```
+
+`r day_name("9", "statistics")`
+
+```{r}
+day_p(9)
+```
+
+
+`r day_name("10", "experimental")`
+
+```{r}
+day_p(10)
+```
