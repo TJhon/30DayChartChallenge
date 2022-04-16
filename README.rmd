@@ -92,3 +92,14 @@ day_p(9)
 ```{r}
 day_p(10)
 ```
+
+`r day_name("11", "circular")`
+
+![](Plots/day11.png)
+
+`r day_name("12", "the_economist")`
+
+```{r}
+day_p(12)
+```
+

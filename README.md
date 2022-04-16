@@ -42,3 +42,11 @@
 # [Day 10: Experimental](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day10-experimental.r)
 
 ![](Plots/day10.png)<!-- -->
+
+# [Day 11: Circular](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day11-circular.r)
+
+![](Plots/day11.png)
+
+# [Day 12: The_economist](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day12-the_economist.r)
+
+![](Plots/day12.png)<!-- -->
