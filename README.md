@@ -50,3 +50,51 @@
 # [Day 12: The_economist](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day12-the_economist.r)
 
 ![](Plots/day12.png)<!-- -->
+
+# [Day 13: Correlation](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day13-correlation.r)
+
+![](Plots/day13.png)<!-- -->
+
+# [Day 14: 3d](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day14-3d.r)
+
+![](Plots/day14.png)<!-- -->
+
+# [Day 15: Multivariable](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day15-multivariable.r)
+
+![](Plots/day15.png)<!-- -->
+
+# [Day 16: Environment](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day16-environment.r)
+
+![](Plots/day16.png)<!-- -->
+
+# [Day 17: Connections](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day17-connections.r)
+
+![](Plots/day17.png)<!-- -->
+
+# [Day 18: Oecd](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day18-oecd.r)
+
+![](Plots/day18.png)<!-- -->
+
+# [Day 19: Global-change](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day19-global-change.r)
+
+![](Plots/day19.gif)<!-- -->
+
+# [Day 20: New tool](https://github.com/TJhon/30DayChartChallenge/blob/main/Julia/day20-new_tool.jl)
+
+![](Plots/day20.gif)<!-- -->
+
+# [Day 21: Down_upwards](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day21-down_upwards.r)
+
+![](Plots/day21.png)<!-- -->
+
+# [Day 22: Animation](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day22-animation.r)
+
+![](Plots/day22.gif)<!-- -->
+
+# [Day 23: Tiles](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day23-tiles.r)
+
+![](Plots/day23.png)<!-- -->
+
+# [Day 24: Financial_theme](https://github.com/TJhon/30DayChartChallenge/blob/main/R/day24-financial_theme.r)
+
+![](Plots/day24.png)<!-- -->

@@ -103,3 +103,75 @@ day_p(10)
 day_p(12)
 ```
 
+`r day_name("13", "correlation")`
+
+```{r}
+day_p(13)
+```
+
+`r day_name("14", "3d")`
+
+```{r}
+day_p(14)
+```
+
+`r day_name("15", "multivariable")`
+
+```{r}
+day_p(15)
+```
+
+`r day_name("16", "environment")`
+
+```{r}
+day_p(16)
+```
+
+`r day_name("17", "connections")`
+
+```{r}
+day_p(17)
+```
+
+`r day_name("18", "oecd")`
+
+```{r}
+day_p(18)
+```
+
+`r day_name("19", "global-change")`
+
+```{r}
+day_p(19, ".gif")
+```
+
+# [Day 20: New tool](https://github.com/TJhon/30DayChartChallenge/blob/main/Julia/day20-new_tool.jl)
+
+```{r}
+day_p(20, ".gif")
+```
+
+`r day_name("21", "down_upwards")`
+
+```{r}
+day_p(21)
+```
+
+
+`r day_name("22", "animation")`
+
+```{r}
+day_p(22, ".gif")
+```
+
+`r day_name("23", "tiles")`
+
+```{r}
+day_p(23)
+```
+
+`r day_name("24", "financial_theme")`
+
+```{r}
+day_p(24)
+```
